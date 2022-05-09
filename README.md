@@ -1,6 +1,8 @@
 # mandala_2022_05_v20
 mandala code from imgur
 
+https://imgur.com/gallery/NlHEo6G
+
 This is an example of code I use to make little 3 second animations that look like loading icons or mandalas.  There are 5 flags that should be passed when 
 running this script from a command line:
 <start frame> <end frame> <show image?> <save file?> <make gif?>
